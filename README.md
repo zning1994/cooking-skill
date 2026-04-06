@@ -1,6 +1,6 @@
 <div align="center">
 
-# cooking.skill
+# 做饭.skill
 
 > 不知道吃什么，就先把冰箱和嘴说清楚。
 
@@ -78,7 +78,19 @@
 
 ## 安装
 
-### Claude Code
+### 通用安装
+
+```bash
+npx skills add zning1994/cooking-skill
+```
+
+### OpenClaw / ClawHub
+
+```bash
+openclaw skills install cooking-skill
+```
+
+### Claude Code / 手动安装
 
 在当前项目安装：
 

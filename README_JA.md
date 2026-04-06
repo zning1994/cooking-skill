@@ -42,6 +42,18 @@
 
 ## インストール
 
+共通インストール:
+
+```bash
+npx skills add zning1994/cooking-skill
+```
+
+OpenClaw / ClawHub:
+
+```bash
+openclaw skills install cooking-skill
+```
+
 現在のプロジェクトに入れる場合：
 
 ```bash
@@ -63,4 +75,3 @@ git clone https://github.com/zning1994/cooking-skill ~/.claude/skills/cooking-sk
 牛肉を柔らかく炒めるには？
 料理酒がないときはどうする？
 ```
-

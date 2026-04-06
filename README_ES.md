@@ -42,6 +42,18 @@ Cuando hace falta, pregunta como máximo dos cosas:
 
 ## Instalación
 
+Instalación universal:
+
+```bash
+npx skills add zning1994/cooking-skill
+```
+
+OpenClaw / ClawHub:
+
+```bash
+openclaw skills install cooking-skill
+```
+
 ```bash
 mkdir -p .claude/skills
 git clone https://github.com/zning1994/cooking-skill .claude/skills/cooking-skill
@@ -61,4 +73,3 @@ Tengo muslos de pollo, patatas y cebolla
 ¿Cómo hago para que la ternera quede tierna?
 ¿Qué hago si no tengo vino de cocina?
 ```
-

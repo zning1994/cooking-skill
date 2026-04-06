@@ -42,6 +42,18 @@ Wenn nötig, fragt sie höchstens zwei Dinge:
 
 ## Installation
 
+Universell:
+
+```bash
+npx skills add zning1994/cooking-skill
+```
+
+OpenClaw / ClawHub:
+
+```bash
+openclaw skills install cooking-skill
+```
+
 ```bash
 mkdir -p .claude/skills
 git clone https://github.com/zning1994/cooking-skill .claude/skills/cooking-skill
@@ -52,4 +64,3 @@ Global:
 ```bash
 git clone https://github.com/zning1994/cooking-skill ~/.claude/skills/cooking-skill
 ```
-

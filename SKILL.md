@@ -6,6 +6,14 @@ argument-hint: "[dish-or-ingredients]"
 version: "0.1.0"
 user-invocable: true
 allowed-tools: Read, Write, Edit, Bash
+metadata:
+  author: zning1994
+  openclaw:
+    homepage: https://github.com/zning1994/cooking-skill
+    os:
+      - macos
+      - linux
+      - windows
 ---
 
 # Cooking Skill

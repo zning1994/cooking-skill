@@ -44,6 +44,18 @@ The default answer includes:
 
 ## Installation
 
+Universal:
+
+```bash
+npx skills add zning1994/cooking-skill
+```
+
+OpenClaw / ClawHub:
+
+```bash
+openclaw skills install cooking-skill
+```
+
 For the current project:
 
 ```bash
@@ -84,4 +96,3 @@ cooking.skill/
 - answer first, explanation second
 - minimal questions
 - practical home-kitchen logic
-

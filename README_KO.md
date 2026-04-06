@@ -42,6 +42,18 @@
 
 ## 설치
 
+공통 설치:
+
+```bash
+npx skills add zning1994/cooking-skill
+```
+
+OpenClaw / ClawHub:
+
+```bash
+openclaw skills install cooking-skill
+```
+
 ```bash
 mkdir -p .claude/skills
 git clone https://github.com/zning1994/cooking-skill .claude/skills/cooking-skill
@@ -52,4 +64,3 @@ git clone https://github.com/zning1994/cooking-skill .claude/skills/cooking-skil
 ```bash
 git clone https://github.com/zning1994/cooking-skill ~/.claude/skills/cooking-skill
 ```
-
