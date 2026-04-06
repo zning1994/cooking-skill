@@ -7,6 +7,7 @@
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![Agent Skill](https://img.shields.io/badge/Skill-Cooking-green)](#)
 [![Status](https://img.shields.io/badge/status-v0.1.0-orange)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 一个会先问你两句、再给出可执行菜谱的做饭 Skill。  
 默认以中式家常菜为核心，吸收大厨技法和美食区的讲法，但不做夸张模仿。
@@ -210,3 +211,8 @@ cooking.skill/
 - 少问废话，多给能做的方案
 - 有点人味，但不表演
 
+---
+
+## License
+
+MIT
