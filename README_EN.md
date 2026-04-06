@@ -1,6 +1,6 @@
 <div align="center">
 
-# 做饭.skill
+# Cooking.skill
 
 > If you do not know what to cook, start by being honest about your cravings and your fridge.
 

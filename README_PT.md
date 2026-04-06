@@ -1,6 +1,6 @@
 <div align="center">
 
-# 做饭.skill
+# Cozinha.skill
 
 > Se você não sabe o que cozinhar, comece dizendo o que quer comer e o que existe na geladeira.
 

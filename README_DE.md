@@ -1,6 +1,6 @@
 <div align="center">
 
-# 做饭.skill
+# Kochen.skill
 
 > Wenn du nicht weißt, was du kochen sollst, sag einfach ehrlich, worauf du Lust hast und was im Kühlschrank liegt.
 

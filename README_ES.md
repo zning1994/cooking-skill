@@ -1,6 +1,6 @@
 <div align="center">
 
-# 做饭.skill
+# Cocina.skill
 
 > Si no sabes qué cocinar, empieza por decir qué te apetece y qué tienes en casa.
 
