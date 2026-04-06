@@ -1,8 +1,17 @@
-# cooking.skill
+<div align="center">
+
+# 做饭.skill
 
 > 뭘 해 먹을지 모르겠으면, 냉장고 상태랑 입맛부터 솔직하게 말하면 된다.
 
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skill](https://img.shields.io/badge/Skill-Cooking-green)](#)
+[![Status](https://img.shields.io/badge/status-v0.1.0-orange)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 `cooking.skill` 은 필요한 것만 조금 물어보고, 실제로 따라 할 수 있는 레시피를 주는 요리 Skill 입니다.
+
+</div>
 
 기본 방향:
 

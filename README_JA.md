@@ -1,8 +1,17 @@
-# cooking.skill
+<div align="center">
+
+# 做饭.skill
 
 > 何を作るか迷ったら、まず冷蔵庫と気分を正直に言えばいい。
 
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skill](https://img.shields.io/badge/Skill-Cooking-green)](#)
+[![Status](https://img.shields.io/badge/status-v0.1.0-orange)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 `cooking.skill` は、必要なことだけを少し聞いて、実際に作れるレシピを返す料理 Skill です。
+
+</div>
 
 基本方針：
 

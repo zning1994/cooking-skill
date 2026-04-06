@@ -1,8 +1,17 @@
-# cooking.skill
+<div align="center">
+
+# 做饭.skill
 
 > Si no sabes qué cocinar, empieza por decir qué te apetece y qué tienes en casa.
 
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skill](https://img.shields.io/badge/Skill-Cooking-green)](#)
+[![Status](https://img.shields.io/badge/status-v0.1.0-orange)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 `cooking.skill` es una skill de cocina que hace pocas preguntas útiles y luego te da una receta realmente ejecutable.
+
+</div>
 
 Enfoque por defecto:
 

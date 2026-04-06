@@ -1,8 +1,17 @@
-# cooking.skill
+<div align="center">
+
+# 做饭.skill
 
 > Если не знаешь, что готовить, сначала честно скажи, чего хочется и что есть в холодильнике.
 
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skill](https://img.shields.io/badge/Skill-Cooking-green)](#)
+[![Status](https://img.shields.io/badge/status-v0.1.0-orange)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 `cooking.skill` — это кулинарный skill, который задает минимум полезных вопросов, а потом выдает рецепт, который реально можно приготовить.
+
+</div>
 
 Базовый фокус:
 
