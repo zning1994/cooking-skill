@@ -12,7 +12,7 @@
 一个会先问你两句、再给出可执行菜谱的做饭 Skill。  
 默认以中式家常菜为核心，吸收大厨技法和美食区的讲法，但不做夸张模仿。
 
-[安装](#安装) · [使用](#使用) · [效果示例](#效果示例) · [项目结构](#项目结构)
+[快速安装](#安装) · [使用](#使用) · [示例](#示例) · [项目结构](#项目结构)
 
 **Other Languages / 其他语言：**
 
@@ -39,6 +39,13 @@
 - 家庭厨房常见设备
 - 大厨技法的家用简化版
 - 轻松自然、但不过度表演的表达
+
+## 它不是什么
+
+- 不是精确营养和热量管理工具
+- 不是大型宴席规划器
+- 不是西餐 / 烘焙的完整知识库
+- 不是只会抖机灵的做饭段子机器人
 
 ---
 
@@ -105,6 +112,23 @@ git clone https://github.com/zning1994/cooking-skill .claude/skills/cooking-skil
 git clone https://github.com/zning1994/cooking-skill ~/.claude/skills/cooking-skill
 ```
 
+## 最适合 / 暂时不适合
+
+### 最适合
+
+- 中式家常菜
+- 下班回家做一顿正常晚饭
+- 看冰箱现有食材出菜
+- 问一道菜的关键做法
+- 问常见救场和替代方案
+
+### 暂时不适合
+
+- 精细化减脂营养规划
+- 大型多道宴席编排
+- 完整西餐体系
+- 烘焙甜点
+
 ---
 
 ## 使用
@@ -128,6 +152,11 @@ git clone https://github.com/zning1994/cooking-skill ~/.claude/skills/cooking-sk
 ---
 
 ## 效果示例
+
+仓库内还有两份更适合快速浏览的示例：
+
+- [基础流转示例](examples/basic-flows.md)
+- [Demo Prompts](examples/demo-prompts.md)
 
 ### 场景一：不知道吃啥
 
@@ -184,6 +213,11 @@ cooking.skill/
 ├── README_RU.md
 ├── agents/
 │   └── openai.yaml
+├── examples/
+│   ├── basic-flows.md
+│   └── demo-prompts.md
+├── evals/
+│   └── evals.json
 └── references/
     ├── style-guide.md
     ├── cooking-framework.md
@@ -193,6 +227,8 @@ cooking.skill/
 其中：
 
 - `SKILL.md`：主入口，定义触发方式、追问逻辑和输出格式
+- `examples/`：给第一次看仓库的人快速理解 skill 怎么工作
+- `evals/`：给后续迭代留的轻量评测锚点
 - `style-guide.md`：语气规则，不做明显模仿
 - `cooking-framework.md`：出菜逻辑和问答结构
 - `techniques.md`：技法、翻车点和补救方案
