@@ -12,7 +12,7 @@
 一个会先问你两句、再给出可执行菜谱的做饭 Skill。  
 默认以中式家常菜为核心，吸收大厨技法和美食区的讲法，但不做夸张模仿。
 
-[快速安装](#安装) · [使用](#使用) · [示例](#示例) · [项目结构](#项目结构)
+[快速安装](#安装) · [使用](#使用) · [示例](#示例) · [项目结构](#项目结构) · [Changelog](CHANGELOG.md) · [Releases](https://github.com/zning1994/cooking-skill/releases)
 
 **Other Languages / 其他语言：**
 
@@ -219,6 +219,9 @@ cooking.skill/
 ├── evals/
 │   └── evals.json
 └── references/
+    ├── high-frequency-answers.md
+    ├── dish-coverage.md
+    ├── sauces.md
     ├── style-guide.md
     ├── cooking-framework.md
     └── techniques.md
@@ -229,6 +232,9 @@ cooking.skill/
 - `SKILL.md`：主入口，定义触发方式、追问逻辑和输出格式
 - `examples/`：给第一次看仓库的人快速理解 skill 怎么工作
 - `evals/`：给后续迭代留的轻量评测锚点
+- `high-frequency-answers.md`：高频技法/救场/替代问答模板
+- `dish-coverage.md`：常见家用食材组合到菜品的稳定映射
+- `sauces.md`：高频味型与汁水比例基线
 - `style-guide.md`：语气规则，不做明显模仿
 - `cooking-framework.md`：出菜逻辑和问答结构
 - `techniques.md`：技法、翻车点和补救方案
@@ -249,6 +255,12 @@ cooking.skill/
 - 酱汁与比例库
 - 面食 / 汤类专题
 - meal prep / 备菜流
+
+当前能力层重点参考：
+
+- `references/high-frequency-answers.md`
+- `references/dish-coverage.md`
+- `references/sauces.md`
 
 ---
 

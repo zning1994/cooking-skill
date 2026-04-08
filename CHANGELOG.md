@@ -8,7 +8,19 @@ in a lightweight, practical way.
 
 ## [Unreleased]
 
-- No unreleased changes yet.
+### Added
+
+- `references/high-frequency-answers.md` for stable handling of common technique, rescue, and substitution questions.
+- `references/dish-coverage.md` for practical mapping from common household ingredient bundles to high-success dishes.
+- `references/sauces.md` for core home-cooking sauce profiles and ratio baselines.
+
+### Changed
+
+- Updated `SKILL.md` reference loading and capability priority order:
+  1. high-frequency answers
+  2. dish coverage
+  3. sauces
+- Added `Changelog` and `Releases` entry links to `README.md`.
 
 ## [0.1.0] - 2026-04-08
 

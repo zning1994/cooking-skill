@@ -44,6 +44,26 @@
         "Explain what the substitute can and cannot replace",
         "Stay practical instead of over-promising equivalence"
       ]
+    },
+    {
+      "name": "dish_coverage_bundle_mapping",
+      "mode": "ingredients",
+      "input": "冰箱里有肉末、豆腐、小葱，晚饭做什么稳一点",
+      "expected_behavior": [
+        "Map bundle to a high-success home dish route",
+        "Recommend one primary dish with concise rationale",
+        "Provide one backup route when constraints are uncertain"
+      ]
+    },
+    {
+      "name": "sauce_profile_baseline",
+      "mode": "sauce",
+      "input": "糖醋汁怎么调比较稳",
+      "expected_behavior": [
+        "Provide a practical baseline ratio",
+        "State flavor intent and adjustment directions",
+        "Avoid presenting ratio as rigid truth"
+      ]
     }
   ]
 }
